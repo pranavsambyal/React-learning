@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "7699621f547d6b1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc623377f2a6e892",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "impNotes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1373b73ab060e2fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "65cfc35f1043ba6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf8c868b5975aaa5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "71521aa36cbc7bd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3c718ac4f84e605",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbd4706db4519b18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ea3223148d2742",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "impNotes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc623377f2a6e892",
+  "lastOpenFiles": [
+    "impNotes.md",
+    "README.md"
+  ]
+}
